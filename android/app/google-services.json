@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533012559645",
+    "project_id": "wisdom-portal-a7847",
+    "storage_bucket": "wisdom-portal-a7847.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533012559645:android:fc2d2b701b955d9eab13f4",
+        "android_client_info": {
+          "package_name": "com.example.wisdom_portal_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiFbo7Ru4Ob_EcMaLNfSfMRsPBOYno8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
